@@ -1,0 +1,50 @@
+/* 기본 배경색 */
+body {
+	background-color: #D0DCB0;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+/* 글자 */
+h1 {
+	color: #2c3409;
+}
+
+h2 {
+	color: #2c3409;
+}
+
+p {
+	color: #45520f;
+}
+/* 바로가기 메뉴 */
+ul li {
+	color: #45520f;
+}
+/* 구분선 */
+hr {
+	border: 1px solid #7e961c;
+}
+
+/* 링크 */
+a {
+  color: #45520f;
+text-decoration: none;
+}
+a:hover {
+	background-color: #dfe7cb;
+}
+
+/* 표 */
+table {
+	color:#45520f;
+	background-color: #eef2e5;
+	border: 3px solid #45520f;
+}
+
+th {
+	color:#45520f;
+	background-color: #dfe7cb;
+	border: 1px solid #6d8218;
+}
+
